@@ -1,0 +1,114 @@
+{
+  "teachings": [
+    {
+      "id": "trinity",
+      "title_en": "The Holy Trinity",
+      "title_am": "ቅድስት ሥላሴ",
+      "summary_en": "God is one God in three Persons: the Father, the Son (Jesus Christ), and the Holy Spirit. They are not three separate gods, but one God who has always existed together in perfect love. Think of it like the sun — the sun itself, its light, and its warmth are all one sun!",
+      "summary_am": "እግዚአብሔር በሦስት አካላት አንድ አምላክ ነው፡ አብ፣ ወልድ (ኢየሱስ ክርስቶስ) እና መንፈስ ቅዱስ። ሦስት የተለያዩ አማልክት ሳይሆኑ በፍጹም ፍቅር ሁልጊዜ አብረው የነበሩ አንድ አምላክ ናቸው። እንደ ፀሐይ አስቡት — ፀሐይ ራሷ፣ ብርሃኗና ሙቀቷ ሁሉም አንድ ፀሐይ ናቸው!",
+      "key_points_en": [
+        "God is ONE — there is only one God, not three",
+        "God exists in THREE Persons: Father, Son, and Holy Spirit",
+        "Each Person is fully God — the Father is God, the Son is God, the Holy Spirit is God",
+        "The three Persons have existed together forever — none was created",
+        "The Ethiopian word 'Selassie' (ሥላሴ) means Trinity and is a name of deep reverence"
+      ],
+      "key_points_am": [
+        "እግዚአብሔር አንድ ነው — አንድ አምላክ ብቻ ነው እንጂ ሦስት አይደለም",
+        "እግዚአብሔር በሦስት አካላት አለ፡ አብ፣ ወልድ እና መንፈስ ቅዱስ",
+        "እያንዳንዱ አካል ፍጹም አምላክ ነው — አብ አምላክ ነው፣ ወልድ አምላክ ነው፣ መንፈስ ቅዱስ አምላክ ነው",
+        "ሦስቱ አካላት ለዘላለም አብረው ነበሩ — አንዳቸውም አልተፈጠሩም",
+        "ሥላሴ የሚለው የኢትዮጵያ ቃል ሥላሴ ማለት ሲሆን የጥልቅ አክብሮት ስም ነው"
+      ],
+      "scripture_reference": "Matthew 28:19 — 'Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.'"
+    },
+    {
+      "id": "incarnation",
+      "title_en": "The Incarnation of Christ",
+      "title_am": "የክርስቶስ ሥጋዌ",
+      "summary_en": "The Incarnation means that God the Son became a human being. Jesus Christ is fully God and fully human united in one nature — this is what 'Tewahedo' means! He was born from the Virgin Mary to save us from sin and death. He did not stop being God when He became human.",
+      "summary_am": "ሥጋዌ ማለት እግዚአብሔር ወልድ ሰው ሆነ ማለት ነው። ኢየሱስ ክርስቶስ ፍጹም አምላክና ፍጹም ሰው በአንድ ባሕርይ የተዋሐደ ነው — 'ተዋሕዶ' ማለት ይህ ነው! ከኃጢአትና ከሞት ሊያድነን ከድንግል ማርያም ተወለደ። ሰው በሆነ ጊዜ አምላክ መሆኑን አላቆመም።",
+      "key_points_en": [
+        "Jesus is God the Son who became a human being — this is called the Incarnation",
+        "'Tewahedo' means 'being made one' — Christ's divine and human natures are united",
+        "Jesus was born from the Virgin Mary by the power of the Holy Spirit",
+        "He became human to save us — 'God became man so that man might become godly'",
+        "The Ethiopian Orthodox Church is called 'Tewahedo' because of this important teaching"
+      ],
+      "key_points_am": [
+        "ኢየሱስ ሰው የሆነ እግዚአብሔር ወልድ ነው — ይህ ሥጋዌ ይባላል",
+        "'ተዋሕዶ' ማለት 'አንድ መሆን' ማለት ነው — የክርስቶስ መለኮታዊና ሰብአዊ ባሕርያት የተዋሐዱ ናቸው",
+        "ኢየሱስ በመንፈስ ቅዱስ ኃይል ከድንግል ማርያም ተወለደ",
+        "ሊያድነን ሰው ሆነ — 'ሰው መለኮታዊ እንዲሆን እግዚአብሔር ሰው ሆነ'",
+        "የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በዚህ ጠቃሚ ትምህርት ምክንያት 'ተዋሕዶ' ትባላለች"
+      ],
+      "scripture_reference": "John 1:14 — 'And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth.'"
+    },
+    {
+      "id": "fasting",
+      "title_en": "Fasting in the Orthodox Church",
+      "title_am": "በኦርቶዶክስ ቤተ ክርስቲያን ጾም",
+      "summary_en": "Fasting is when we give up certain foods (like meat and dairy) for a period of time to grow closer to God. It's like training for your soul! Orthodox Christians fast on Wednesdays and Fridays and during special seasons like Lent. The Ethiopian Orthodox Church has the most fasting days of any Christian church — about 250 days a year for monks!",
+      "summary_am": "ጾም ለተወሰነ ጊዜ ወደ እግዚአብሔር ለመቅረብ የተወሰኑ ምግቦችን (እንደ ሥጋና የወተት ተዋጽኦ) መተው ነው። ለነፍስህ እንደ ስልጠና ነው! ኦርቶዶክሳውያን ክርስቲያኖች ረቡዕና ዓርብ እንዲሁም እንደ ዐቢይ ጾም ባሉ ልዩ ወቅቶች ይጾማሉ። የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን ከማንኛውም ክርስቲያን ቤተ ክርስቲያን በላይ የጾም ቀናት አሏት — ለመነኮሳት በዓመት ወደ 250 ቀናት!",
+      "key_points_en": [
+        "Fasting means giving up certain foods to focus on God and prayer",
+        "Orthodox Christians fast on Wednesdays (when Judas betrayed Jesus) and Fridays (when Jesus died on the cross)",
+        "During fasting, we don't eat meat, dairy, or eggs — we eat plant-based foods",
+        "The Great Lent (Hudadi/Abiy Tsom) before Easter is 55 days of fasting",
+        "Fasting teaches us self-control, compassion for the hungry, and dependence on God"
+      ],
+      "key_points_am": [
+        "ጾም ማለት በእግዚአብሔርና በጸሎት ላይ ለማተኮር የተወሰኑ ምግቦችን መተው ማለት ነው",
+        "ኦርቶዶክሳውያን ክርስቲያኖች ረቡዕ (ይሁዳ ኢየሱስን ያስረከበበት) እና ዓርብ (ኢየሱስ በመስቀል ላይ የሞተበት) ይጾማሉ",
+        "በጾም ወቅት ሥጋ፣ የወተት ተዋጽኦ ወይም እንቁላል አንበላም — ከዕፅዋት የተገኙ ምግቦችን እንበላለን",
+        "ከፋሲካ በፊት ያለው ዐቢይ ጾም (ሁዳዴ) 55 ቀናት ጾም ነው",
+        "ጾም ራስን መግዛት፣ ለተራቡ ርኅራኄና በእግዚአብሔር ላይ መደገፍን ያስተምረናል"
+      ],
+      "scripture_reference": "Matthew 6:16-18 — 'When you fast, do not look somber as the hypocrites do... But when you fast, put oil on your head and wash your face, so that it will not be obvious to others that you are fasting.'"
+    },
+    {
+      "id": "prayer",
+      "title_en": "Prayer in Orthodox Life",
+      "title_am": "በኦርቶዶክስ ሕይወት ጸሎት",
+      "summary_en": "Prayer is talking to God and listening to Him. In the Orthodox Church, we pray at set times during the day, use ancient prayers written by the saints, and also talk to God in our own words. Ethiopian Orthodox Christians often pray facing east and use a prayer rope called a mequteria to help them focus.",
+      "summary_am": "ጸሎት ከእግዚአብሔር ጋር ማውራትና እርሱን ማዳመጥ ነው። በኦርቶዶክስ ቤተ ክርስቲያን በቀን በተወሰኑ ሰዓታት እንጸልያለን፣ ቅዱሳን የጻፏቸውን ጥንታዊ ጸሎቶች እንጠቀማለን፣ በራሳችንም ቃላት ከእግዚአብሔር ጋር እናወራለን። የኢትዮጵያ ኦርቶዶክስ ክርስቲያኖች ብዙ ጊዜ ወደ ምሥራቅ ዞረው ይጸልያሉ፣ ለማተኮርም መቁጠሪያ የሚባል የጸሎት ገመድ ይጠቀማሉ።",
+      "key_points_en": [
+        "Prayer is our conversation with God — we can pray anytime and anywhere",
+        "Orthodox Christians pray at set hours: morning, midday, evening, and before bed",
+        "We pray facing east, toward the direction of the rising sun, symbolizing Christ's light",
+        "The Lord's Prayer (Our Father) is the most important prayer Jesus taught us",
+        "In Ethiopian tradition, bowing and prostrations during prayer show our humility before God"
+      ],
+      "key_points_am": [
+        "ጸሎት ከእግዚአብሔር ጋር ያለን ውይይት ነው — በማንኛውም ጊዜና ቦታ መጸለይ እንችላለን",
+        "ኦርቶዶክሳውያን ክርስቲያኖች በተወሰኑ ሰዓታት ይጸልያሉ፡ ጥዋት፣ ቀትር፣ ማታና ከመተኛት በፊት",
+        "የክርስቶስን ብርሃን የሚያመለክት የፀሐይ መውጫ ወደሆነው ወደ ምሥራቅ ዞረን እንጸልያለን",
+        "የአባታችን ሆይ ጸሎት (አቡነ ዘበሰማያት) ኢየሱስ ያስተማረን ዋና ጸሎት ነው",
+        "በኢትዮጵያ ባህል በጸሎት ወቅት መስገድና መንበርከክ በእግዚአብሔር ፊት ያለንን ትሕትና ያሳያል"
+      ],
+      "scripture_reference": "Matthew 6:9-13 — 'Our Father in heaven, hallowed be Your name. Your kingdom come. Your will be done on earth as it is in heaven...'"
+    },
+    {
+      "id": "sacraments",
+      "title_en": "The Holy Sacraments (Mysteries)",
+      "title_am": "ቅዱሳት ምሥጢራት",
+      "summary_en": "The sacraments are special gifts from God given through the Church. They are called 'mysteries' because God works through them in ways we can't fully see. The Orthodox Church has seven sacraments, including Baptism (when we become part of God's family) and the Eucharist (when we receive the Body and Blood of Christ).",
+      "summary_am": "ቅዱሳት ምሥጢራት በቤተ ክርስቲያን በኩል ከእግዚአብሔር የሚሰጡ ልዩ ስጦታዎች ናቸው። 'ምሥጢራት' ተብለው የሚጠሩት እግዚአብሔር በሙሉ ልንረዳ በማንችልበት መንገድ በእነርሱ ስለሚሠራ ነው። ኦርቶዶክስ ቤተ ክርስቲያን ጥምቀትን (የእግዚአብሔር ቤተሰብ አባል የምንሆንበት) እና ቅዱስ ቁርባንን (የክርስቶስን ሥጋውንና ደሙን የምንቀበልበት) ጨምሮ ሰባት ምሥጢራት አሏት።",
+      "key_points_en": [
+        "There are seven sacraments: Baptism, Confirmation (Chrismation), Eucharist, Confession, Anointing of the Sick, Marriage, and Holy Orders",
+        "Baptism makes us children of God — in the Ethiopian Church, boys are baptized at 40 days and girls at 80 days",
+        "The Eucharist (Holy Communion) is the Body and Blood of Christ — not just a symbol",
+        "Confession is when we tell our sins to God through the priest and receive forgiveness",
+        "The sacraments are how God gives us His grace and helps us grow in holiness"
+      ],
+      "key_points_am": [
+        "ሰባት ምሥጢራት አሉ፡ ጥምቀት፣ ሜሮን፣ ቅዱስ ቁርባን፣ ንስሐ፣ የሕሙማን ቅባት፣ ጋብቻ እና ክህነት",
+        "ጥምቀት የእግዚአብሔር ልጆች ያደርገናል — በኢትዮጵያ ቤተ ክርስቲያን ወንዶች በ40 ቀናቸው ሴቶች በ80 ቀናቸው ይጠመቃሉ",
+        "ቅዱስ ቁርባን የክርስቶስ ሥጋውና ደሙ ነው — ምልክት ብቻ አይደለም",
+        "ንስሐ ኃጢአታችንን በካህኑ በኩል ለእግዚአብሔር ነግረን ይቅርታ የምናገኝበት ነው",
+        "ምሥጢራት እግዚአብሔር ጸጋውን የሚሰጠንና በቅድስና እንድናድግ የሚረዳንበት መንገድ ናቸው"
+      ],
+      "scripture_reference": "John 6:53-54 — 'Jesus said to them, \"Very truly I tell you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. Whoever eats my flesh and drinks my blood has eternal life.\"'"
+    }
+  ]
+}

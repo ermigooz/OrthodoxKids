@@ -1,0 +1,202 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "trinity",
+      "question_en": "How many Persons are in the Holy Trinity?",
+      "question_am": "በቅድስት ሥላሴ ውስጥ ስንት አካላት አሉ?",
+      "options_en": ["One", "Two", "Three", "Four"],
+      "options_am": ["አንድ", "ሁለት", "ሦስት", "አራት"],
+      "correct_answer": 2,
+      "explanation_en": "The Holy Trinity is three Persons — Father, Son, and Holy Spirit — in one God.",
+      "explanation_am": "ቅድስት ሥላሴ በአንድ አምላክ ውስጥ ሦስት አካላት ናቸው — አብ፣ ወልድ እና መንፈስ ቅዱስ።"
+    },
+    {
+      "id": 2,
+      "category": "trinity",
+      "question_en": "What does the Ethiopian word 'Selassie' (ሥላሴ) mean?",
+      "question_am": "'ሥላሴ' ማለት ምን ማለት ነው?",
+      "options_en": ["Peace", "Trinity", "Holy", "Church"],
+      "options_am": ["ሰላም", "ሥላሴ", "ቅዱስ", "ቤተ ክርስቲያን"],
+      "correct_answer": 1,
+      "explanation_en": "Selassie means Trinity, referring to the three Persons of God: Father, Son, and Holy Spirit.",
+      "explanation_am": "ሥላሴ ማለት ሦስትነት (Trinity) ማለት ሲሆን የእግዚአብሔርን ሦስት አካላት ይመለከታል፡ አብ፣ ወልድ እና መንፈስ ቅዱስ።"
+    },
+    {
+      "id": 3,
+      "category": "incarnation",
+      "question_en": "What does the word 'Tewahedo' mean?",
+      "question_am": "'ተዋሕዶ' ማለት ምን ማለት ነው?",
+      "options_en": ["Being made one", "Holy prayer", "Fasting time", "Church building"],
+      "options_am": ["አንድ መሆን", "ቅዱስ ጸሎት", "የጾም ጊዜ", "የቤተ ክርስቲያን ሕንፃ"],
+      "correct_answer": 0,
+      "explanation_en": "Tewahedo means 'being made one' — it refers to Christ's divine and human natures being united in one.",
+      "explanation_am": "ተዋሕዶ ማለት 'አንድ መሆን' ማለት ሲሆን የክርስቶስ መለኮታዊና ሰብአዊ ባሕርያት በአንድ መዋሐዳቸውን ይመለከታል።"
+    },
+    {
+      "id": 4,
+      "category": "incarnation",
+      "question_en": "Who is the mother of Jesus Christ?",
+      "question_am": "የኢየሱስ ክርስቶስ እናት ማን ናት?",
+      "options_en": ["Saint Mary Magdalene", "The Virgin Mary (Theotokos)", "Queen of Sheba", "Saint Helena"],
+      "options_am": ["ቅድስት ማርያም መግደላዊት", "ድንግል ማርያም (ወላዲተ አምላክ)", "ንግሥተ ሳባ", "ቅድስት ዕሌኒ"],
+      "correct_answer": 1,
+      "explanation_en": "The Virgin Mary, called Theotokos (God-bearer) or Waladiite Amlak in Ethiopian tradition, gave birth to Jesus Christ by the power of the Holy Spirit.",
+      "explanation_am": "ወላዲተ አምላክ ተብላ የምትጠራው ድንግል ማርያም በመንፈስ ቅዱስ ኃይል ኢየሱስ ክርስቶስን ወለደች።"
+    },
+    {
+      "id": 5,
+      "category": "fasting",
+      "question_en": "On which two days do Orthodox Christians fast every week?",
+      "question_am": "ኦርቶዶክሳውያን ክርስቲያኖች በየሳምንቱ በየትኞቹ ሁለት ቀናት ይጾማሉ?",
+      "options_en": ["Monday and Thursday", "Wednesday and Friday", "Tuesday and Saturday", "Saturday and Sunday"],
+      "options_am": ["ሰኞ እና ሐሙስ", "ረቡዕ እና ዓርብ", "ማክሰኞ እና ቅዳሜ", "ቅዳሜ እና እሑድ"],
+      "correct_answer": 1,
+      "explanation_en": "Orthodox Christians fast on Wednesdays (when Judas betrayed Jesus) and Fridays (when Jesus died on the cross).",
+      "explanation_am": "ኦርቶዶክሳውያን ክርስቲያኖች ረቡዕ (ይሁዳ ኢየሱስን ያስረከበበት) እና ዓርብ (ኢየሱስ በመስቀል ላይ የሞተበት) ይጾማሉ።"
+    },
+    {
+      "id": 6,
+      "category": "fasting",
+      "question_en": "How many days is the Great Lent (Abiy Tsom) before Easter?",
+      "question_am": "ከፋሲካ በፊት ያለው ዐቢይ ጾም ስንት ቀናት ነው?",
+      "options_en": ["40 days", "55 days", "30 days", "70 days"],
+      "options_am": ["40 ቀናት", "55 ቀናት", "30 ቀናት", "70 ቀናት"],
+      "correct_answer": 1,
+      "explanation_en": "The Great Lent in the Ethiopian Orthodox Church is 55 days, longer than in some other traditions.",
+      "explanation_am": "በኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን ዐቢይ ጾም 55 ቀናት ሲሆን ከሌሎች ወጎች የረዘመ ነው።"
+    },
+    {
+      "id": 7,
+      "category": "prayer",
+      "question_en": "In which direction do Orthodox Christians face when they pray?",
+      "question_am": "ኦርቶዶክሳውያን ክርስቲያኖች ሲጸልዩ ወደ የትኛው አቅጣጫ ይዞራሉ?",
+      "options_en": ["North", "South", "East", "West"],
+      "options_am": ["ሰሜን", "ደቡብ", "ምሥራቅ", "ምዕራብ"],
+      "correct_answer": 2,
+      "explanation_en": "Orthodox Christians face east when praying, toward the rising sun, which symbolizes Christ the Light of the World.",
+      "explanation_am": "ኦርቶዶክሳውያን ክርስቲያኖች የዓለም ብርሃን ክርስቶስን የሚያመለክተውን ፀሐይ መውጫ ወደ ምሥራቅ ዞረው ይጸልያሉ።"
+    },
+    {
+      "id": 8,
+      "category": "prayer",
+      "question_en": "What is the Ethiopian prayer rope called?",
+      "question_am": "የኢትዮጵያ የጸሎት ገመድ ምን ይባላል?",
+      "options_en": ["Rosary", "Mequteria", "Tabot", "Netela"],
+      "options_am": ["ሮዛሪ", "መቁጠሪያ", "ታቦት", "ነጠላ"],
+      "correct_answer": 1,
+      "explanation_en": "The mequteria is a prayer rope used by Ethiopian Orthodox Christians to count prayers and stay focused during worship.",
+      "explanation_am": "መቁጠሪያ የኢትዮጵያ ኦርቶዶክስ ክርስቲያኖች ጸሎቶችን ለመቁጠርና በአምልኮ ወቅት ለማተኮር የሚጠቀሙበት የጸሎት ገመድ ነው።"
+    },
+    {
+      "id": 9,
+      "category": "sacraments",
+      "question_en": "How many sacraments (mysteries) does the Orthodox Church have?",
+      "question_am": "የኦርቶዶክስ ቤተ ክርስቲያን ስንት ቅዱሳት ምሥጢራት አሏት?",
+      "options_en": ["Three", "Five", "Seven", "Ten"],
+      "options_am": ["ሦስት", "አምስት", "ሰባት", "አሥር"],
+      "correct_answer": 2,
+      "explanation_en": "The Orthodox Church has seven sacraments: Baptism, Confirmation, Eucharist, Confession, Anointing of the Sick, Marriage, and Holy Orders.",
+      "explanation_am": "ኦርቶዶክስ ቤተ ክርስቲያን ሰባት ምሥጢራት አሏት፡ ጥምቀት፣ ሜሮን፣ ቅዱስ ቁርባን፣ ንስሐ፣ የሕሙማን ቅባት፣ ጋብቻ እና ክህነት።"
+    },
+    {
+      "id": 10,
+      "category": "sacraments",
+      "question_en": "At how many days old are boys baptized in the Ethiopian Orthodox Church?",
+      "question_am": "በኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን ወንድ ልጆች በስንት ቀናቸው ይጠመቃሉ?",
+      "options_en": ["8 days", "40 days", "80 days", "1 year"],
+      "options_am": ["8 ቀናት", "40 ቀናት", "80 ቀናት", "1 ዓመት"],
+      "correct_answer": 1,
+      "explanation_en": "In the Ethiopian Orthodox tradition, boys are baptized at 40 days old and girls at 80 days old.",
+      "explanation_am": "በኢትዮጵያ ኦርቶዶክስ ወግ ወንዶች በ40 ቀናቸው ሴቶች በ80 ቀናቸው ይጠመቃሉ።"
+    },
+    {
+      "id": 11,
+      "category": "history",
+      "question_en": "Who was the first Bishop of Ethiopia?",
+      "question_am": "የኢትዮጵያ የመጀመሪያ ጳጳስ ማን ነበር?",
+      "options_en": ["Saint Athanasius", "Frumentius (Abba Selama)", "Saint Yared", "King Lalibela"],
+      "options_am": ["ቅዱስ አትናቴዎስ", "ፍሬምናጦስ (አባ ሰላማ)", "ቅዱስ ያሬድ", "ንጉሥ ላሊበላ"],
+      "correct_answer": 1,
+      "explanation_en": "Frumentius, also known as Abba Selama (Father of Peace), was ordained by Saint Athanasius as the first Bishop of Ethiopia around 330 AD.",
+      "explanation_am": "ፍሬምናጦስ አባ ሰላማ (የሰላም አባት) በመባልም የሚታወቀው በ330 ዓ.ም. አካባቢ በቅዱስ አትናቴዎስ እጅ የኢትዮጵያ የመጀመሪያ ጳጳስ ሆኖ ተሾመ።"
+    },
+    {
+      "id": 12,
+      "category": "history",
+      "question_en": "What did Saint Yared create for the Ethiopian Church?",
+      "question_am": "ቅዱስ ያሬድ ለኢትዮጵያ ቤተ ክርስቲያን ምን ፈጠረ?",
+      "options_en": ["The Bible in Geez", "Church music and hymns", "The rock churches", "The prayer rope"],
+      "options_am": ["በግዕዝ መጽሐፍ ቅዱስ", "የቤተ ክርስቲያን ዜማና መዝሙር", "ውቅር አብያተ ክርስቲያናት", "የጸሎት ገመድ"],
+      "correct_answer": 1,
+      "explanation_en": "Saint Yared created the unique musical tradition of the Ethiopian Orthodox Church, including three styles of chanting still used today.",
+      "explanation_am": "ቅዱስ ያሬድ ዛሬም ድረስ ጥቅም ላይ የሚውሉ ሦስት የዝማሬ ዘይቤዎችን ጨምሮ የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያንን ልዩ የሙዚቃ ባህል ፈጠረ።"
+    },
+    {
+      "id": 13,
+      "category": "history",
+      "question_en": "What happened on the Day of Pentecost?",
+      "question_am": "በጴንጤቆስጤ ቀን ምን ሆነ?",
+      "options_en": ["Jesus was born", "The Holy Spirit came upon the Apostles", "Moses received the Ten Commandments", "The Temple was built"],
+      "options_am": ["ኢየሱስ ተወለደ", "መንፈስ ቅዱስ በሐዋርያት ላይ ወረደ", "ሙሴ አሥርቱን ትእዛዛት ተቀበለ", "ቤተ መቅደሱ ተሠራ"],
+      "correct_answer": 1,
+      "explanation_en": "On the Day of Pentecost, the Holy Spirit descended on the Apostles like tongues of fire, giving them the power to preach. This is considered the birthday of the Church.",
+      "explanation_am": "በጴንጤቆስጤ ቀን መንፈስ ቅዱስ እንደ እሳት ልሳን በሐዋርያት ላይ ወረደ የመስበክ ኃይል ሰጣቸው። ይህ የቤተ ክርስቲያን የልደት ቀን ተደርጎ ይቆጠራል።"
+    },
+    {
+      "id": 14,
+      "category": "fathers",
+      "question_en": "Why was Saint John called 'Chrysostom'?",
+      "question_am": "ቅዱስ ዮሐንስ ለምን 'አፈወርቅ' ተባለ?",
+      "options_en": ["He wore golden robes", "He had a golden voice / was a great preacher", "He found gold in a church", "He lived in a golden palace"],
+      "options_am": ["ወርቃማ ልብስ ስለለበሰ", "ወርቃማ ድምፅ ስለነበረው / ታላቅ ሰባኪ ስለነበር", "በቤተ ክርስቲያን ውስጥ ወርቅ ስላገኘ", "በወርቃማ ቤተ መንግሥት ስለኖረ"],
+      "correct_answer": 1,
+      "explanation_en": "Chrysostom means 'Golden Mouth' in Greek. Saint John earned this name because he was the greatest preacher of the early Church.",
+      "explanation_am": "አፈወርቅ ማለት 'የወርቅ አፍ' ማለት ነው። ቅዱስ ዮሐንስ ይህን ስም ያገኘው የጥንታዊት ቤተ ክርስቲያን ታላቅ ሰባኪ ስለነበር ነው።"
+    },
+    {
+      "id": 15,
+      "category": "fathers",
+      "question_en": "Which Church Father defended the faith at the Council of Nicaea?",
+      "question_am": "በኒቅያ ጉባኤ ሃይማኖትን የተከላከለው የትኛው የቤተ ክርስቲያን አባት ነው?",
+      "options_en": ["Basil the Great", "John Chrysostom", "Athanasius the Great", "Frumentius"],
+      "options_am": ["ባስልዮስ ታላቁ", "ዮሐንስ አፈወርቅ", "አትናቴዎስ ታላቁ", "ፍሬምናጦስ"],
+      "correct_answer": 2,
+      "explanation_en": "Saint Athanasius, even as a young deacon, bravely defended the true faith against Arianism at the Council of Nicaea in 325 AD.",
+      "explanation_am": "ቅዱስ አትናቴዎስ ገና ወጣት ዲያቆን ሳለ በ325 ዓ.ም. በኒቅያ ጉባኤ ላይ እውነተኛውን ሃይማኖት ከአርዮሳዊነት በድፍረት ተከላከለ።"
+    },
+    {
+      "id": 16,
+      "category": "history",
+      "question_en": "Who built the rock-hewn churches in Ethiopia?",
+      "question_am": "በኢትዮጵያ ውቅር አብያተ ክርስቲያናትን ማን ገነባ?",
+      "options_en": ["Emperor Haile Selassie", "King Lalibela", "Saint Yared", "The Nine Saints"],
+      "options_am": ["ንጉሠ ነገሥት ኃይለ ሥላሴ", "ንጉሥ ላሊበላ", "ቅዱስ ያሬድ", "ዘጠኙ ቅዱሳን"],
+      "correct_answer": 1,
+      "explanation_en": "King Lalibela built eleven incredible churches carved from solid rock around 1200 AD, creating a 'New Jerusalem' in Ethiopia.",
+      "explanation_am": "ንጉሥ ላሊበላ በ1200 ዓ.ም. አካባቢ ከጠጣር ድንጋይ ተፈልፍለው የተሠሩ አስራ አንድ አስደናቂ አብያተ ክርስቲያናትን በመገንባት በኢትዮጵያ 'አዲስ ኢየሩሳሌም' ፈጠረ።"
+    },
+    {
+      "id": 17,
+      "category": "sacraments",
+      "question_en": "What is the Eucharist (Holy Communion)?",
+      "question_am": "ቅዱስ ቁርባን ምንድን ነው?",
+      "options_en": ["A symbol of bread and wine", "The true Body and Blood of Christ", "A special prayer", "A type of fasting"],
+      "options_am": ["የእንጀራና የወይን ምልክት", "የክርስቶስ እውነተኛ ሥጋውና ደሙ", "ልዩ ጸሎት", "የጾም ዓይነት"],
+      "correct_answer": 1,
+      "explanation_en": "The Orthodox Church teaches that the Eucharist is truly the Body and Blood of Christ — not just a symbol, but a real holy mystery.",
+      "explanation_am": "ኦርቶዶክስ ቤተ ክርስቲያን ቅዱስ ቁርባን በእውነት የክርስቶስ ሥጋውና ደሙ መሆኑን ታስተምራለች — ምልክት ብቻ ሳይሆን እውነተኛ ቅዱስ ምሥጢር።"
+    },
+    {
+      "id": 18,
+      "category": "fathers",
+      "question_en": "Which council declared Mary as 'Theotokos' (Mother of God)?",
+      "question_am": "ማርያምን 'ወላዲተ አምላክ' ብሎ ያወጀው የትኛው ጉባኤ ነው?",
+      "options_en": ["Council of Nicaea (325 AD)", "Council of Constantinople (381 AD)", "Council of Ephesus (431 AD)", "Council of Chalcedon (451 AD)"],
+      "options_am": ["የኒቅያ ጉባኤ (325 ዓ.ም.)", "የቁስጥንጥንያ ጉባኤ (381 ዓ.ም.)", "የኤፌሶን ጉባኤ (431 ዓ.ም.)", "የከልቄዶን ጉባኤ (451 ዓ.ም.)"],
+      "correct_answer": 2,
+      "explanation_en": "The Council of Ephesus in 431 AD, led by Saint Cyril of Alexandria, declared that Mary is truly the Theotokos — the Mother of God.",
+      "explanation_am": "በቅዱስ ቄርሎስ ዘእስክንድርያ የተመራው የ431 ዓ.ም. የኤፌሶን ጉባኤ ማርያም በእውነት ወላዲተ አምላክ መሆኗን አወጀ።"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "timeline": [
+    {
+      "year": 33,
+      "title_en": "The Day of Pentecost",
+      "title_am": "የጴንጤቆስጤ ቀን",
+      "description_en": "Fifty days after Jesus rose from the dead, the Holy Spirit came down on the Apostles like tongues of fire. This was the birthday of the Christian Church, and the Apostles began preaching the Good News to everyone!",
+      "description_am": "ኢየሱስ ከሙታን ከተነሳ ከሃምሳ ቀናት በኋላ መንፈስ ቅዱስ እንደ እሳት ልሳን በሐዋርያት ላይ ወረደ። ይህ የክርስቲያን ቤተ ክርስቲያን የልደት ቀን ነበር፣ ሐዋርያትም ለሁሉም ሰው የምሥራቹን ማስተማር ጀመሩ!"
+    },
+    {
+      "year": 34,
+      "title_en": "The Ethiopian Eunuch Is Baptized",
+      "title_am": "የኢትዮጵያው ጃንደረባ ተጠመቀ",
+      "description_en": "Philip the Apostle met a man from Ethiopia who was reading the Bible but didn't understand it. Philip explained the good news about Jesus, and the Ethiopian was baptized right away! This is one of the earliest stories of Christianity reaching Africa.",
+      "description_am": "ሐዋርያው ፊልጶስ መጽሐፍ ቅዱስን ያነብ የነበረ አንድ ኢትዮጵያዊ ሰው አገኘ። ፊልጶስ ስለ ኢየሱስ የምሥራቹን ገለጸለት፣ ኢትዮጵያዊውም ወዲያውኑ ተጠመቀ! ይህ ክርስትና ወደ አፍሪካ ስለመድረስ ከመጀመሪያዎቹ ታሪኮች አንዱ ነው።"
+    },
+    {
+      "year": 325,
+      "title_en": "The Council of Nicaea",
+      "title_am": "የኒቅያ ጉባኤ",
+      "description_en": "Bishops from all over the world gathered in the city of Nicaea to agree on what Christians believe. They wrote the Nicene Creed, which Orthodox Christians still recite today. Saint Athanasius helped defend the true faith at this important meeting.",
+      "description_am": "ከመላው ዓለም የተውጣጡ ጳጳሳት ክርስቲያኖች የሚያምኑትን ለመስማማት በኒቅያ ከተማ ተሰበሰቡ። የኒቅያን የሃይማኖት መግለጫ ጻፉ፣ ኦርቶዶክሳውያን ክርስቲያኖች ዛሬም ድረስ ይደግሙታል። ቅዱስ አትናቴዎስ በዚህ ታላቅ ስብሰባ ላይ እውነተኛውን ሃይማኖት ለመጠበቅ ረዳ።"
+    },
+    {
+      "year": 330,
+      "title_en": "Frumentius Brings Christianity to Ethiopia",
+      "title_am": "አባ ሰላማ ክርስትናን ወደ ኢትዮጵያ አመጡ",
+      "description_en": "A young man named Frumentius (also called Abba Selama, Father of Peace) brought Christianity to the kingdom of Aksum in Ethiopia. He became the first bishop of Ethiopia and was ordained by Saint Athanasius himself!",
+      "description_am": "ፍሬምናጦስ (አባ ሰላማ ተብሎም ይጠራል) የተባለ ወጣት ክርስትናን ወደ ኢትዮጵያ የአክሱም መንግሥት አመጣ። የኢትዮጵያ የመጀመሪያ ጳጳስ ሆነ፣ በቅዱስ አትናቴዎስ እጅ ተሾመ!"
+    },
+    {
+      "year": 381,
+      "title_en": "The Council of Constantinople",
+      "title_am": "የቁስጥንጥንያ ጉባኤ",
+      "description_en": "Church leaders met again to add more details to the Nicene Creed, especially about the Holy Spirit. They confirmed that the Holy Spirit is truly God, just like the Father and the Son. This completed the Creed we pray today.",
+      "description_am": "የቤተ ክርስቲያን መሪዎች ስለ መንፈስ ቅዱስ ተጨማሪ ዝርዝር ለማከል በድጋሚ ተሰበሰቡ። መንፈስ ቅዱስ እንደ አብና ወልድ በእውነት እግዚአብሔር መሆኑን አረጋገጡ። ይህ ዛሬ የምንጸልየውን የሃይማኖት መግለጫ አጠናቀቀ።"
+    },
+    {
+      "year": 431,
+      "title_en": "The Council of Ephesus",
+      "title_am": "የኤፌሶን ጉባኤ",
+      "description_en": "At this council, the Church declared that Mary is truly the Theotokos, meaning 'God-bearer' or Mother of God. This was important because it showed that Jesus is truly God who became a human being. Orthodox Christians honor Mary with great love.",
+      "description_am": "በዚህ ጉባኤ ቤተ ክርስቲያን ማርያም በእውነት ወላዲተ አምላክ ማለትም 'እግዚአብሔርን የወለደች' ወይም የእግዚአብሔር እናት መሆኗን አወጀች። ይህ ኢየሱስ ሰው የሆነ እውነተኛ እግዚአብሔር መሆኑን ስለሚያሳይ ጠቃሚ ነበር። ኦርቶዶክሳውያን ክርስቲያኖች ማርያምን በታላቅ ፍቅር ያከብራሉ።"
+    },
+    {
+      "year": 451,
+      "title_en": "The Council of Chalcedon and the Oriental Orthodox",
+      "title_am": "የከልቄዶን ጉባኤ እና የምሥራቅ ኦርቶዶክስ",
+      "description_en": "After this council, the Oriental Orthodox Churches (including Ethiopia, Egypt, Armenia, and Syria) separated from other churches over how to describe the nature of Christ. The Ethiopian and Coptic churches teach that Christ is one united nature — fully God and fully human together.",
+      "description_am": "ከዚህ ጉባኤ በኋላ የምሥራቅ ኦርቶዶክስ አብያተ ክርስቲያናት (ኢትዮጵያ፣ ግብጽ፣ አርመንያ እና ሶርያ ጨምሮ) የክርስቶስን ባሕርይ እንዴት እንደሚገልጹ በመለያየት ከሌሎች አብያተ ክርስቲያናት ተለዩ። የኢትዮጵያና የግብጽ አብያተ ክርስቲያናት ክርስቶስ አንድ የተዋሐደ ባሕርይ — ፍጹም አምላክና ፍጹም ሰው በአንድነት — መሆኑን ያስተምራሉ።"
+    },
+    {
+      "year": 480,
+      "title_en": "The Nine Saints Come to Ethiopia",
+      "title_am": "ዘጠኙ ቅዱሳን ወደ ኢትዮጵያ መጡ",
+      "description_en": "Nine holy monks traveled from Syria and other lands to Ethiopia. They translated the Bible into Geez, built monasteries, and spread the faith across the land. They are remembered as heroes of the Ethiopian Church!",
+      "description_am": "ዘጠኝ ቅዱሳን መነኮሳት ከሶርያና ከሌሎች አገሮች ወደ ኢትዮጵያ ተጓዙ። መጽሐፍ ቅዱስን ወደ ግዕዝ ተረጎሙ፣ ገዳማት ሠሩ፣ ሃይማኖቱንም በመላው ምድር አሰራጩ። በኢትዮጵያ ቤተ ክርስቲያን ታሪክ ውስጥ እንደ ጀግኖች ይታወሳሉ!"
+    },
+    {
+      "year": 550,
+      "title_en": "Saint Yared Creates Ethiopian Church Music",
+      "title_am": "ቅዱስ ያሬድ የኢትዮጵያ ቤተ ክርስቲያን ዜማ ፈጠረ",
+      "description_en": "Saint Yared is one of the most beloved saints of the Ethiopian Church. God gave him a beautiful voice, and he created the special music and hymns used in Ethiopian Orthodox worship. He invented three styles of chanting that are still used today!",
+      "description_am": "ቅዱስ ያሬድ ከኢትዮጵያ ቤተ ክርስቲያን በጣም ከሚወደዱ ቅዱሳን አንዱ ነው። እግዚአብሔር ውብ ድምፅ ሰጠው፣ በኢትዮጵያ ኦርቶዶክስ አምልኮ ውስጥ የሚጠቀሙበትን ልዩ ዜማና መዝሙር ፈጠረ። ዛሬም ድረስ ጥቅም ላይ የሚውሉ ሦስት የዝማሬ ዘይቤዎችን ፈጠረ!"
+    },
+    {
+      "year": 1200,
+      "title_en": "The Rock-Hewn Churches of Lalibela",
+      "title_am": "የላሊበላ ውቅር አብያተ ክርስቲያናት",
+      "description_en": "King Lalibela of Ethiopia built eleven amazing churches carved out of solid rock around the year 1200. He wanted to create a 'New Jerusalem' for Christians who couldn't travel to the Holy Land. These incredible churches still stand today and are a wonder of the world!",
+      "description_am": "የኢትዮጵያው ንጉሥ ላሊበላ ከድንጋይ ተፈልፍለው የተሠሩ አስራ አንድ አስደናቂ አብያተ ክርስቲያናትን ገነባ። ወደ ቅድስት ምድር መሄድ ለማይችሉ ክርስቲያኖች 'አዲስ ኢየሩሳሌም' መፍጠር ፈለገ። እነዚህ አስደናቂ አብያተ ክርስቲያናት ዛሬም ድረስ ቆመው ያሉ የዓለም ድንቅ ናቸው!"
+    },
+    {
+      "year": 1896,
+      "title_en": "Ethiopia Remains Independent",
+      "title_am": "ኢትዮጵያ ነፃነቷን ጠበቀች",
+      "description_en": "Ethiopia defeated a European army at the Battle of Adwa, keeping the country free. The Ethiopian Orthodox Church was a source of strength and unity for the people. Ethiopia's ancient Christian heritage helped the nation stay strong.",
+      "description_am": "ኢትዮጵያ በአድዋ ጦርነት የአውሮፓን ጦር ድል አደረገች፣ አገሪቱም ነፃ ሆና ቆየች። የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን ለሕዝቡ የጥንካሬና የአንድነት ምንጭ ነበረች። የኢትዮጵያ ጥንታዊ ክርስቲያናዊ ቅርስ ሀገሪቱ ጠንካራ ሆና እንድትቆይ ረዳ።"
+    },
+    {
+      "year": 1959,
+      "title_en": "Ethiopian Orthodox Church Gains Its Own Patriarch",
+      "title_am": "የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን የራሷን ፓትርያርክ አገኘች",
+      "description_en": "For centuries, the head of the Ethiopian Church was appointed by the Coptic Church of Egypt. In 1959, the Ethiopian Orthodox Tewahedo Church got its very own Patriarch for the first time. This was a proud moment for Ethiopian Christians everywhere!",
+      "description_am": "ለዘመናት የኢትዮጵያ ቤተ ክርስቲያን ሊቀ ጳጳስ በግብጽ ቤተ ክርስቲያን ይሾም ነበር። በ1959 የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን ለመጀመሪያ ጊዜ የራሷን ፓትርያርክ አገኘች። ይህ ለሁሉም ኢትዮጵያውያን ክርስቲያኖች የኩራት ወቅት ነበር!"
+    },
+    {
+      "year": 2000,
+      "title_en": "Orthodox Christianity Grows Around the World",
+      "title_am": "ኦርቶዶክስ ክርስትና በዓለም ዙሪያ እያደገ ነው",
+      "description_en": "Today, Orthodox Christianity is growing in many countries, with millions of faithful around the world. Ethiopian Orthodox communities can be found in America, Europe, and beyond. The ancient faith continues to inspire new generations of young believers!",
+      "description_am": "ዛሬ ኦርቶዶክስ ክርስትና በብዙ አገሮች እያደገ ሲሆን በሚሊዮኖች የሚቆጠሩ ምእመናን በዓለም ዙሪያ ይገኛሉ። የኢትዮጵያ ኦርቶዶክስ ማኅበረሰቦች በአሜሪካ፣ በአውሮፓና ከዚያ ባሻገር ይገኛሉ። ጥንታዊው ሃይማኖት አዳዲስ ትውልድ ወጣት አማኞችን ማነሳሳቱን ቀጥሏል!"
+    }
+  ]
+}
